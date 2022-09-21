@@ -1,0 +1,4 @@
+export const GET_TEST_DATA = 'GET_TEST_DATA';
+export const GET_SOCIAL_ITEM = 'GET_SOCIAL_ITEM';
+export const GET_SOCIAL_LINK = 'GET_SOCIAL_LINK';
+export const HANELE_INPUT_CHANGE = 'HANELE_INPUT_CHANGE';
